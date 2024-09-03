@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblzera&layout=compact&langs_count=10&theme=dark)
 
+## I'm currently learning :
+
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: center; width: 80%;">
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="height: 95px;">
