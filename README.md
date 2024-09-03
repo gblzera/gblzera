@@ -10,6 +10,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height: 95px; margin: 0 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="height: 95px; margin: 0 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="SQL" alt="SQL" style="height: 95px; margin: 0 20px;">
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" style="height: 95px; margin: 0 20px;">
   </div>
 
