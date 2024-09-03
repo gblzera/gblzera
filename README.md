@@ -9,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="height: 95px; margin: 0 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height: 95px; margin: 0 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="height: 95px; margin: 0 20px;">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibm.com%2Fbr-pt%2Fproducts%2Finstana%2Fsupported-technologies%2Fmicrosoft-sql-server-monitoring&psig=AOvVaw2FMTNQJm3_lLrHNzar2EJy&ust=1725455572424000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCnjIbtpogDFQAAAAAdAAAAABAE" alt="SQL" style="height: 95px; margin: 0 20px;">
+    <img src="https://banner2.cleanpng.com/20180330/zle/avid709mg.webp" alt="SQL" style="height: 95px; margin: 0 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" style="height: 95px; margin: 0 20px;">
   </div>
 
