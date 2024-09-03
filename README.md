@@ -4,37 +4,38 @@
 
 <div align="center">
 
-  <div style="display:inline-block; width:80%;">
-    <h2>I'm currently learning:</h2>
+  <div style="display: inline-block; width: 80%;">
+    <h2 style="margin-bottom: 20px;">I'm currently learning:</h2>
     <ul style="list-style: none; padding: 0;">
-      <li style="text-align: center; margin-bottom: 10px;">
+      <li style="text-align: center; margin-bottom: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="95">
         <br>
-        <span style="display: block; font-size: 18px;">Java</span>
+        <span style="display: block; font-size: 20px; font-weight: bold; color: #333;">Java</span>
       </li>
-      <li style="text-align: center; margin-bottom: 10px;">
+      <li style="text-align: center; margin-bottom: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="95">
         <br>
-        <span style="display: block; font-size: 18px;">JavaScript</span>
+        <span style="display: block; font-size: 20px; font-weight: bold; color: #333;">JavaScript</span>
       </li>
-      <li style="text-align: center; margin-bottom: 10px;">
+      <li style="text-align: center; margin-bottom: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="95">
         <br>
-        <span style="display: block; font-size: 18px;">Python</span>
+        <span style="display: block; font-size: 20px; font-weight: bold; color: #333;">Python</span>
       </li>
-      <li style="text-align: center; margin-bottom: 10px;">
+      <li style="text-align: center; margin-bottom: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="95">
         <br>
-        <span style="display: block; font-size: 18px;">SQL</span>
+        <span style="display: block; font-size: 20px; font-weight: bold; color: #333;">SQL</span>
       </li>
-      <li style="text-align: center; margin-bottom: 10px;">
+      <li style="text-align: center; margin-bottom: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="95">
         <br>
-        <span style="display: block; font-size: 18px;">TypeScript</span>
+        <span style="display: block; font-size: 20px; font-weight: bold; color: #333;">TypeScript</span>
       </li>
     </ul>
   </div>
 
 </div>
+
 
 
