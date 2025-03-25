@@ -1,0 +1,31 @@
+name: Update Top Languages Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza todo dia à meia-noite UTC
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar gráfico de linguagens
+        run: |
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=gblzera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2"
+
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Criar branch `gh-pages`
+        run: |
+          git checkout --orphan gh-pages
+          git rm -rf .
+          git add top-langs.svg
+          git commit -m "Atualizando gráfico de linguagens"
+          git push -f origin gh-pages
+
