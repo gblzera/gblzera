@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://gblzera.github.io/NOME_DO_REPOSITORIO/top-langs.svg" height="150" alt="languages graph" />
+  <img src="https://gblzera.github.io/gblzera/top-langs.svg" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=gblzera&locale=pt-br&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
