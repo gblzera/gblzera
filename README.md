@@ -50,13 +50,4 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gabrielheni">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=smoukyryu" alt="Spotify recently played" />
-  </a>
-</div>
-
-###
 
